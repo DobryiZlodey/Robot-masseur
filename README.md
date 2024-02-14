@@ -7,3 +7,5 @@ Robot tasks:
 5) continuous learning through artificial intelligence
 6) "communication" with the client
 7) robot control via voice commands
+8) ...
+аааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
